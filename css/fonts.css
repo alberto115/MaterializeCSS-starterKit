@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Material Icons';
+    src: url('../materialize/font/material-desing-icons/Material-Design-Icons.eot');
+    src: url('../materialize/font/material-desing-icons/Material-Design-Icons.eot?#iefix') format('embedded-opentype'),
+        url('../materialize/font/material-desing-icons/Material-Design-Icons.woff') format('woff'),
+        url('../materialize/font/material-desing-icons/Material-Design-Icons.ttf') format('truetype'),
+        url('../materialize/font/material-desing-icons/Material-Design-Icons.svg#Material-Design-Icons') format('svg');
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+/*@font-face {*/
+    /*font-family: 'Material Icons';*/
+    /*font-style: normal;*/
+    /*font-weight: 400;*/
+    /*src: url(libraries/materialize/font/material-desing-icons/Material-Design-Icons.eot); !* For IE6-8 *!*/
+    /*src: local('Material Icons'),*/
+    /*local('Material-Design-Icons'),*/
+    /*url(libraries/materialize/font/material-desing-icons/Material-Design-Icons.woff2) format('woff2'),*/
+    /*url(libraries/materialize/font/material-desing-icons/Material-Design-Icons.woff) format('woff'),*/
+    /*url(libraries/materialize/font/material-desing-icons/Material-Design-Icons.ttf) format('truetype');*/
+/*}*/

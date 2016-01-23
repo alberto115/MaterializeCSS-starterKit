@@ -1,0 +1,24 @@
+{#
+/**
+ * @file
+ * Theme override for an 'input' #type form element.
+ *
+ * Available variables:
+ * - attributes: A list of HTML attributes for the input element.
+ * - children: Optional additional rendered elements.
+ *
+ * @see template_preprocess_input()
+ */
+#}
+{#<input />#}
+{%
+  set button_classes = [
+    'btn',
+    'waves-effect',
+    'vaves-light'
+  ]
+%}
+<button{{ attributes.addClass(button_classes) }} class="btn waves-effect waves-light" type="submit" name="action">
+  {{ 'Submit'|t }}{{ children }}
+  <i class="material-icons right">send</i>
+</button>

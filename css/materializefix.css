@@ -1,0 +1,10 @@
+/* Admin toolbar styles fix */
+nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
+    height: 40px;
+    line-height: 40px;
+    overflow: hidden;
+}
+
+nav ul li {
+    float: none;
+}

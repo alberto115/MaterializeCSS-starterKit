@@ -1,0 +1,20 @@
+materialize-css:
+  version: 0.97.5
+  css:
+    component:
+      materialize/css/materialize.min.css: {}
+  js:
+    materialize/js/materialize.min.js: {}
+  dependecies:
+    -core/jquery
+
+global-styling:
+  version: 1.x
+  css:
+    theme:
+      css/materializefix.css: {}
+      css/general.css: {}
+  js:
+    js/general.js: {}
+  dependencies:
+    - core/jquery
