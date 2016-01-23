@@ -1,7 +1,7 @@
 # **key m8** drupal 8 theme
 
 
-Provide a starter theme for Drupal 8 based on [MaterializeCSS framework](http://materializecss.org/).
+Provide a starter theme for Drupal 8 based on [MaterializeCSS framework](http://materializecss.com/).
 
 ## Porpouse
 
